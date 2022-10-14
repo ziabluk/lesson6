@@ -1,0 +1,111 @@
+.registration{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.registration__text__conteiner{
+    max-width: 1392px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.registration__text{
+    margin: 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 50px;
+    /* or 139% */    
+    text-align: center;
+    letter-spacing: -0.015em;
+    
+    color: rgba(0, 0, 0, 0.8);
+}
+.registration__text2{
+    margin-bottom: 80px;
+}
+.registration__header{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    /* identical to box height, or 150% */
+    margin: 0;
+    text-align: center;
+    letter-spacing: -0.015em;
+    margin-top: 120px;
+    margin-bottom: 30px;
+}
+.registration__block{
+    width: 622px;
+
+    border: 1px solid #000000;
+
+}
+.registration__block__title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    padding-top: 64px;
+    padding-left: 64px;
+    letter-spacing: -0.015em;
+    color: #000000;
+}
+.registration__input{
+    padding-top: 51px;
+    padding-left: 60px;
+    width: 504px;
+    display: flex;
+    justify-content: space-between;
+}
+.registration__form__input{
+    width: 223px;
+    padding-left: 14px;
+    height: 40px;
+
+}
+.registration__form__input2{
+    padding-left: 14px;
+    height: 40px;
+    width: 494px;
+}
+.registration__input2{
+    padding-left: 60px;
+    padding-top: 24px;
+    
+}
+
+.registration__link{
+    width: 130px;
+    height: 40px;
+    background: #08A045;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.registration__link__block{
+    margin-top: 24px;
+    margin-left: 64px;
+    padding-bottom: 64px;
+}
+.registration__text_link{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: -0.015em;
+    
+    color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+}

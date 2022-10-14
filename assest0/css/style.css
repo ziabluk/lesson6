@@ -1,0 +1,9 @@
+
+.spisok{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block{
+    margin: 0 auto;
+}

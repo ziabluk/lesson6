@@ -1,0 +1,151 @@
+.registration{
+    margin: 0 auto;
+    font-family: 'Rubik';
+    max-width: 468px;
+
+
+}
+.registation__conteiner{
+
+
+}
+.header__img{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 36px;
+}
+.header__title__block{
+    display: flex;
+    justify-content: center;
+    width: 468px;
+    height: 64px;
+    background: #F1E8D9;
+    border-radius: 5px;
+    align-items: center;
+    margin-bottom: 57px;
+}
+.header__title{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 4.5%;
+}
+.registration__data{
+    max-width: 468px;
+    left: 303px;
+    top: 407px;
+    background-color: #DDB771;
+    opacity: 78%;
+    background: rgba(221, 183, 113, 0.22);
+    border-radius: 5px;
+    padding-top: 50px;
+}
+.userneme__text{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    margin-left: 54px;
+    color: #0F0F0F;
+    opacity: 78%;
+
+}
+
+.registration__form__input{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 20px rgba(206, 206, 206, 0.25);
+    border-radius: 60px;
+    padding: 15.5px;
+    width: 360px;
+    margin-left: 47px;
+    border: 1px solid #FFF;
+}
+.registration__text__block{
+    margin-left: 54px;
+}
+.registration__text{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;   
+    
+}
+.registration__text__block{
+    margin-top: 34px;
+}
+.registration__butt{
+    width: 188px;
+    height: 51px;
+    background: #08A045;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 228px;
+    margin-top: 44px;
+
+}
+.butt__text{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 2px;
+    
+    color: #FFFFFF;
+}
+.registration__butt__block{
+    padding-bottom: 51px;
+}
+.button__block{
+    padding-top: 40px;
+    margin-left: 55px;
+}
+.text{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    margin: 0;
+    color: rgba(15, 15, 15, 0.63);
+}
+.text1::before{
+    content: "";
+    background: url(../img/Arrow\ 1.svg);
+    display: block;
+    width: 7px;
+    height: 7px;
+}
+.text1{
+    display: flex;
+    align-items: center;
+}
+.text__end{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 4.5%;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+
+}
+.text__end__block{
+    margin: 0 auto;
+    width: 274px;
+    height: 24px;
+    margin-top: 95px;
+    padding-bottom: 92px;
+}
+a{
+    text-decoration: none;
+}
